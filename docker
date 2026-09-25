@@ -1,0 +1,4 @@
+ docker --version
+ docker run -d --name mynginx nginx
+ docker ps
+ docker logs mynginx
